@@ -1,1 +1,1 @@
-criando um arquivo de texto para chamar com git push
+modificando para aparecer no clone 
